@@ -543,8 +543,8 @@ MIT License - feel free to use this project as a template for your own Stacks dA
 
 ## 📬 Contact
 
-- Twitter: [@yourusername](https://twitter.com/angrypepp3r)
-- GitHub: [@yourusername](https://github.com/sinirlibiber)
+- Twitter: [@angrypepp3r](https://twitter.com/angrypepp3r)
+- GitHub: [@sinirlibiber](https://github.com/sinirlibiber)
 
 ---
 
